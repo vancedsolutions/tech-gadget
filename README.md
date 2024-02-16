@@ -1,7 +1,7 @@
 # Admin Dashboard
-Url: https://tech-gadget.vercel.app/admin
-Username: admin@gmail.com
-password: password
+Url: https://tech-gadget.vercel.app/admin  
+Username: admin@gmail.com  
+password: password  
 
 
 # TechGadgets E-commerce Website
