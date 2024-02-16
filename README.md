@@ -1,3 +1,9 @@
+# Admin Dashboard
+Url: https://tech-gadget.vercel.app/admin
+Username: admin@gmail.com
+password: password
+
+
 # TechGadgets E-commerce Website
 
 Welcome to my React Redux eCommerce website! This project is a full-stack e-commerce solution built with React, Redux, Redux-toolkit and various other technologies. Whether you're a developer looking to contribute, a business owner interested in my platform, or just a curious user, this README will guide you through the essential details of my project.
